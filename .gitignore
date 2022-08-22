@@ -1,2 +1,5 @@
 .idea*
+<<<<<<< HEAD
 *.DS_Store
+=======
+>>>>>>> parent of bff68b7 (Added .DS_Store*)
